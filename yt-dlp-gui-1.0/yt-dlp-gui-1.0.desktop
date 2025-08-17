@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=Yt-dlp-gui-1.0
+Exec=/usr/bin/yt-dlp-gui-1.0
+Icon=yt-dlp-gui-1.0
+Type=Application
+Categories=Utility;
+
